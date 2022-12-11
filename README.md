@@ -1,2 +1,2 @@
 # -palmctl-
-CLI for Multicloud Mesh
+CLI for utilities
